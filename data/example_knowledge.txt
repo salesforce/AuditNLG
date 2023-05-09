@@ -1,0 +1,314 @@
+23 Years of Salesforce News Highlights
+The below timeline captures the history of Salesforce, including some key milestones along the way, illustrating our record of doing well while doing good.
+
+Salesforce is the global leader in CRM, helping companies connect with customers in a whole new way. Founded in 1999, Salesforce enables companies of every size and industry to digitally transform around their customers by harnessing the power of automation, artificial intelligence, and real-time data to make every customer experience more personal, valuable and memorable. With a global community driven by shared core values, Salesforce is more than a business – it’s a platform for change.
+
+1999
+In February, the Salesforce journey begins with a clear vision to be “A World-Class Internet Company for Sales Force Automation.”
+On March 8, Salesforce incorporates and Marc Benioff, Parker Harris, Frank Dominguez, and Dave Moellenhoff begin working on the first version of Salesforce’s CRM. Their base is a rented one-bedroom apartment at 1449 Montgomery Street, on San Francisco’s Telegraph Hill.
+As the four develop their prototype, they also build a distinctive startup culture. They only work on what they believe is important and necessary, to do it “fast, simple, and right the first time.” “No fluff” is their mantra. They wear Hawaiian print shirts, brunch at Mama’s, appoint Marc’s dog Koa as Chief Love Officer, and constantly ask for feedback.
+The company also writes its first V2MOM (Vision, Values, Methods, Obstacles, and Measures) strategic plan, aiming to provide employees with a clear vision and align the organization around common goals. In true startup fashion, the original draft is written on the back of an envelope. V2MOM remains at the core of how Salesforce runs its business, and continues to guide every decision the company makes.
+By the end of its first year, the company has expanded to 40 employees and an 8,000-square-foot office at the Rincon Center.
+
+Parker Harris personal video of the apartment where salesforce.com started
+2000
+Like many other tech companies, Salesforce endured challenges brought on by the dot-com bubble bursting, and 20% of the company’s workforce was laid off.
+On February 7, salesforce.com officially launches at an event themed around “The End of Software” at San Francisco’s Regency Theater with 1,500 attendees and a concert with The B-52s.
+In March, Salesforce gets a boost from its first piece of major press coverage, in The Wall Street Journal, when it hires actors to stage a mock protest outside a Siebel Systems conference. The “protestors” carry signs with anti-software messages to drive home Salesforce’s “The End of Software” marketing tagline.
+Salesforce.org launches the 1-1-1 model, leveraging its technology, people, and resources to improve communities around the world.
+In November, the growing business moves from the Rincon Center to a larger base at One Market Street.
+Revenue hits $5.4 million for fiscal year ending January 31, 2001.
+Open Image ModalAn early Salesforce office circa 2000
+An early Salesforce office circa 2000
+2001
+In April, Salesforce announces its expansion into the worldwide marketplace with headquarters in Dublin and Tokyo.
+Salesforce surpasses 3,000 customers, making it the fastest-growing CRM company. 
+In November, Benioff is named Chief Executive Officer and Chairman.
+Salesforce delivers $22.4 million in revenue for the fiscal year, ending January 31, 2002.
+2002
+By end of the year, the company has 5,740 customers, 70,000 users in 107 countries accessing the service in multiple currencies and eight languages. 
+Salesforce delivers $51 million in revenue for the fiscal year, ending January 31, 2003.
+Marc Benioff makes a prediction about the future of Salesforce, CRM, and business: “There were the leaders, but Oracle displaced them. The same thing is going to happen again. It’s the beginning of a brand new technology and business world.”
+2003
+The first Dreamforce event is held at the Westin St. Francis hotel in downtown San Francisco. Just over 1,000 registered attendees take part in the event, which has 52 presentations.
+sForce 2.0 — the industry’s first on-demand application service — is launched at the event.
+The company’s employees number more than 400.
+It establishes a global presence, opening offices in Australia, France, Germany, Ireland, Japan, Spain, and the U.K.
+Salesforce reaches almost $100 million in revenue by year end, files to go public in December.
+Open Image Modal
+Dreamforce badges from the inaugural Salesforce conference in 2003
+2004
+On June 23, Salesforce successfully completes its initial public offering on the New York Stock Exchange, raising $110 million at $11 per share.
+Salesforce earns $176 million in revenue over the fiscal year ending January 31, 2005.
+The company has 767 employees.
+The customer base has grown to 13,900.
+Some 8,000 developers and 150 independent software vendors are using Salesforce technologies to create apps.
+Salesforce has 12 offices around the world.
+2005
+In September, Salesforce introduces its AppExchange service, offering third-party developers a place to work on their own applications and open them up to Salesforce customers.
+By the end of the year, the company’s customer base stands at 20,500 worldwide, with nearly 400,000 unique users. 
+The company surpasses 1,300 employees by end of fiscal year.
+It has earned $309.98 million in revenue for fiscal year ending January 31, 2006.
+2006
+Salesforce’s mobile journey starts with the acquisition of wireless technology startup Sendia, and the original Salesforce mobile app, AppExchange Mobile. 
+The AppExchange ecosystem grows into a vibrant marketplace with 575 apps from 250 independent software vendors.
+In a defining moment, Benioff shares his view that business is the greatest platform for change, publishing The Business of Changing the World with essays by 20 other thought leaders.
+The Power of Us partner program launches, engaging Salesforce’s partners with the 1-1-1 philanthropy model.
+Salesforce has 29,800 customers worldwide.
+Revenue tops $497 million for the fiscal year ending January 31, 2007.
+Open Image Modal
+The Salesforce AppExchange circa 2006
+2007
+IdeaExchange (now Trailblazer Community) launches, inviting customers to contribute new feature ideas for future releases.
+At Dreamforce, plans for the Force.com technology platform are announced, which will allow developers to build applications on the Salesforce platform and create any user interface on demand.
+Salesforce reports revenue of $748.7 million for the fiscal year ending January 31, 2008.
+Users exceed 1.1 million, from 41,000 customers across the globe.
+The AppExchange community has 450 independent software vendor partners.
+Salesforce employees log 70,000 volunteer hours.
+2008
+Salesforce has revenue of just over $1 billion for the fiscal year ending January 31 2009, making it the first cloud computing company to breach the billion-dollar mark in annual revenue.
+Forbes names Salesforce among the fastest-growing technology companies in the world.
+Number of customers grows to 55,400.
+Dreamforce in San Francisco reaches a new milestone, with 10,000 registered attendees.
+Force.com is released, making it easier for customers to build and install apps on Salesforce’s architecture.
+2009
+Salesforce launches Service Cloud, bringing customer service and support automation features to the market.
+Revenues rise by more than 20% to $1.3 billion for the fiscal year, ending January 31, 2010.
+Salesforce’s global customer base grows to 72,000 customers.
+The first application built on Force.com for the iPhone launches, and it’s the first enterprise partner on Apple’s App Store.
+Salesforce.org gives $14 million in grants to support nonprofits.
+Chairman and CEO Marc Benioff publishes Behind the Cloud, a memoir of Salesforce’s early days and growth to a company with $1 billion in annual revenues.
+Open Image Modal
+An original Salesforce mascot called “SaaSy”
+2010
+Salesforce agrees to acquire Heroku, an application platform-as-a-service, to support for the next generation of app developers. Editor’s Note: Read more about Salesforce acquisitions.
+Company finishes the fiscal year with more than 92,000 customers and 5,000 employees.
+Annual revenue rises to almost $1.66 billion for the fiscal year, ending January 31, 2011.
+Over the last ten years, Salesforce gave $23 million in grants, employees volunteered 255,000 hours, and 11,000 nonprofits had access to Salesforce products for free.
+Fortune magazine ranks Salesforce fourth on its list of the world’s fastest-growing companies.
+Salesforce is also named by the Ethisphere Institute as one of the world’s most ethical companies for the fourth consecutive year.
+slide 1 to 3 of 3
+
+Salesforce Named to Most Ethical Companies List for 14th Time
+
+Salesforce Announces Strong Fourth Quarter and Full Fiscal 2023 Results
+
+Our 2023 Annual Equality Update: Where We Are and Where We’re Going
+2011
+Salesforce launches Chatter as a social collaboration service for the enterprise; more than 80,000 customers adopt Chatter in the first year.  
+Salesforce extends its social enterprise capabilities to include marketing with the acquisition of social media monitoring company, Radian6.
+Annual revenue rises 37% over the fiscal year to almost $2.27 billion, for the fiscal year ending January 31, 2012.
+By the end of the fiscal year, Salesforce employs 7,785 people around the globe.
+Forbes names Salesforce one of “The 50 Companies of Tomorrow,” taking notice of the innovation the company has achieved.
+Open Image Modal
+Marc Benioff takes the number one spot on Fortune’s “The 50 Companies of Tomorrow” list
+2012
+Salesforce has more than $3 billion in annual revenue for the fiscal year ending January 31, 2013.
+The company has 9,800 employees in 22 offices around the world.
+The company also crosses a threshold with more than 100,000 customers.
+Salesforce leases space in the yet-to-be-built tower at 350 Mission Street as the plan for an urban campus takes shape.  
+Dreamforce 2012 notches up 90,000 registered attendees. Salesforce Marketing Cloud is unveiled during the keynote address.
+Forbes selects Salesforce as the world’s most innovative company for the second consecutive year.
+Gartner ranks Salesforce #1 in CRM.
+2013
+Salesforce completes its largest acquisition to date with ExactTarget, allowing it to supercharge the power of Marketing Cloud. 
+The Salesforce1 Platform launches, empowering customers to run their business from their phone.  
+Dreamforce has more than 143,000 registered attendees. A benefit concert during the event features the bands Blondie and Green Day.
+The AppExchange hosts more than 2,000 apps, and records over 2 million installs.
+Annual revenue over the fiscal year exceeds $4 billion for the fiscal year ending January 31, 2014.
+Salesforce has more than 13,300 employees worldwide.
+2014
+Salesforce launches Trailhead, empowering anyone — regardless of education level — to develop the skills needed for top tech jobs.
+The company now has 1.5 million registered developers.
+Salesforce reaches the $5 billion in annual revenue milestone faster than any other enterprise software company.
+The company has more than 150,000 customers and 16,000 employees.
+Since its inception, the Salesforce Foundation has donated $80 million and employees volunteered more than 840,000 hours.
+Salesforce Tower London opens.
+Open Image Modal
+Salesforce Tower London
+2015
+Salesforce enters the Fortune 500.
+Fortune also recognizes Salesforce as one of the Top 10 Best Companies to Work For and one of the World’s Most Admired Software Companies.
+At Dreamforce, Salesforce announces new Lightning Experience, a completely new CRM experience.
+Salesforce unveils IoT Cloud, connecting billions of events from devices, sensors, apps and more from the Internet of Things to Salesforce.
+When San Francisco runs short of hotel rooms for Dreamforce attendees, Salesforce docks the ‘Dreamboat’ cruise ship to provide 1,000  extra accommodations.
+The company generates more than $6.66 billion in revenue for the fiscal year ending January 31, 2016.
+Salesforce has more than 150,000 customers worldwide and more than 20,000 employees.
+2016
+Salesforce conducts its first equal pay assessment, resulting in $3 million in salary adjustments.
+Salesforce Tower opens in New York.
+The company acquires ecommerce platform Demandware to extend its Customer Success Platform to the retail industry, and introduces Commerce Cloud.
+Year-over-year revenue increases 26% to more than $8.4 billion for the fiscal year ending January 31, 2017.
+Salesforce has more than 25,000 employees across 25 countries.
+Forbes recognizes CEO Marc Benioff as “the decade’s top innovator.”
+The company acquires productivity software company Quip.
+Salesforce is named the #1 “Workplace for Giving Back” by Fortune.
+Salesforce.org has given $160 million in grants, logged 2 million employee volunteer hours, and more than 31,000 nonprofits and NGOs use the software for free or at a discount.
+2017
+Salesforce launches Einstein, the first comprehensive artificial intelligence (AI) technology for CRM, making AI accessible to every company and business user.
+The company achieves net-zero greenhouse gas emissions and begins delivering a carbon-neutral cloud.
+mySalesforce is unveiled, allowing everyone from admins to business users to build and deploy modern, highly customized mobile apps with point-and-click tools.
+Revenue grows to $10.548 billion for the fiscal year ending January 31, 2018, up 25% on the previous year.
+Salesforce has 29,000 employees around the world and more than 150,000 customers.
+Ninety-five of the Fortune 100 run at least one app from the AppExchange.
+Open Image Modal
+Salesforce launches Einstein, the first comprehensive artificial intelligence (AI) technology for CRM
+2018
+The Salesforce Tower in San Francisco has its grand opening.
+The company introduces Salesforce Customer 360, a new platform service that seamlessly manages customer data across clouds via a click-based user interface. 
+Einstein Voice is introduced, empowering any user to talk to Salesforce.
+The company acquires MuleSoft to help power Salesforce’s integration capabilities. Fortune names Salesforce #1 on the 100 Best Companies to Work For list.
+The company has more than 36,000 employees.
+Revenue reaches $13.3 billion for the fiscal year ending January 31, 2019.
+2019
+Salesforce acquires Tableau, bringing the world’s #1 CRM and #1 analytics platform together to supercharge customers’ digital transformations.
+Benioff’s book Trailblazer hits the shelves.
+More than 1.8 million learners are changing their lives on Trailhead.
+Dreamforce gathers Trailblazers from 120 countries and 50 U.S. states, with more than 171,000 registered attendees and 16 million online viewers.
+Annual revenue grew 29%, surpassing $17 billion for the fiscal year ending January 31, 2020.
+Fortune ranked Salesforce as one of its 100 Best Companies to Work for the 12th year in a row, one of the top 10 Most Admired Companies in the World and one of the Best Workplaces for Giving Back.
+Over the last two decades, Salesforce has given $330 million in grants to worthy causes, employees volunteered 4.9 million hours, and 46,000 nonprofits and NGO use the software for free or at a discount.
+Open Image Modal
+Marc Benioff demos Einstein Voice capabilities at Dreamforce 2019
+2020
+Gartner ranks Salesforce #1 in CRM for the 7th year in a row, gaining more share of market than the next nine competitors combined.
+Salesforce launches a number of products and resources to help companies navigate the pandemic including: 
+Salesforce Care, a set of free rapid response solutions, companies can stay connected to employees, customers, and partners during the pandemic. 
+Work.com, a suite of expert advice, content, data, and new products to help companies around the globe reopen their businesses and communities, then get back to growth. 
+Vaccine Cloud to help public health authorities, healthcare providers, and nonprofits quickly scale vaccine operations, from recipient registration and scheduling to inventory management and public health outreach.
+Salesforce is added to the Dow Jones Industrial Average, effective August 31, 2020.
+Salesforce acquires Vlocity, and signs definitive agreement to acquire Slack.
+Salesforce hosts a virtual Dreamforce, attracting more than 140 million views, and its first ever Dreamforce To You, bringing a version of Dreamforce tailored to individual customers around the world.
+Open Image ModalDreamforce to You Keynote - Marc Benioff
+Salesforce Chair & CEO, Marc Benioff, delivers the Dreamforce To You 2020 Keynote from Salesforce Park.
+2021
+At the Davos Agenda, Salesforce joins global leaders to call for stakeholder capitalism initiatives and encourage businesses and governments to participate.
+Salesforce was ranked #1 in CRM for the 8th consecutive year.
+Bret Taylor was named Vice Chair and Co-CEO of Salesforce.
+Salesforce announced that it is a Net Zero company across its full value chain and has achieved 100% renewable energy for its global operations by procuring renewable energy equivalent to our electric energy usage.
+New grant announcements were announced for five school districts in the U.S. bringing Salesforce’s total commitment to $140 million.
+According to data from a new study from IDC, Salesforce and its ecosystem of partners will create 9.3 million new jobs and $1.6 trillion in new business revenues worldwide by 2026. 
+David Schmaier is named Salesforce’s President and COO.
+Salesforce commits to new Equality initiatives following widespread racial injustice incidents, pushes for police reform.
+Vaccine Cloud and Work.com for Vaccines see widespread adoption during the COVID-19 crisis.
+Salesforce jumps up 50+ spots on the Fortune 500 list.
+Salesforce completes acquisition of Slack, shares vision for Slack-driven Digital HQ.
+Salesforce+ is introduced, an all-new streaming service with compelling live and on-demand content for every role, industry and line of business.
+2022
+Trailblazer Ranch was introduced — an exciting new gathering place where employees can forge trusted relationships with their colleagues, and learn.
+Salesforce announced Safety Cloud to help people get together safely. Building on Salesforce’s own event and workplace experience.
+Salesforce officially announced sustainability as a core company value.
+Salesforce reported record Q4 and Full Year Results.
+Salesforce was ranked #1 in CRM for the 9th consecutive year.
+Salesforce announced NFT Cloud a trusted, sustainable, connected, NFT commerce solution.
+Salesforce received multiple notable recognitions including Most Sustainable Company, World’s Best Workplace and World’s Most Admired.
+At the 20th annual Dreamforce, Salesforce announced Genie Customer Data Cloud, a hyperscale real-time data platform that powers the entire Salesforce Customer 360 platform.
+
+Services
+Salesforce's products include several customer relationship management (CRM) technologies, including: Sales Cloud,[39] Service Cloud,[40] Marketing Cloud,[41] and Commerce Cloud and Platform.[41] Additional technologies include Slack, MuleSoft, Tableau Analytics, and Trailhead.
+
+Main services
+Salesforce's main technologies are tools for customer management. Other products enable customers to create apps, integrate data from other systems, visualize data, and offer training courses.[42]
+
+Salesforce Platform
+Salesforce Platform[43] (formerly known as Force.com) is a platform as a service (PaaS) that allows developers to create add-on applications that integrate into the main Salesforce.com application.[44][failed verification] These third-party applications are hosted on Salesforce.com's infrastructure.[45]
+
+Force.com applications are built using declarative tools, backed by Lightning[further explanation needed] and Apex, a proprietary Java-like programming language for Force.com,[46] as well as Visualforce, a framework[47] including an XML[48] syntax typically used to generate HTML. The Force.com platform typically receives three complete releases a year.[49] As the platform is provided as a service to its developers, every single development instance also receives all these updates.
+
+In 2015, a new framework for building user interfaces – Lightning Components – was introduced in beta.[50] Lightning components are built using the open-source Aura Framework[51] but with support for Apex as the server-side language instead of Aura's JavaScript dependency.
+
+As of 2014, the Force.com platform has 1.5 million registered developers.[52]
+
+Lightning Base Components is the component library built on top of Lightning Web Components.[53]
+
+AppExchange
+Launched in 2005, the Salesforce AppExchange is an online application marketplace that connects customers with third-party applications and consulting services.[54][55] As of 2021, the exchange has over 5,000 apps listed.[56][57]
+
+Trailhead
+Launched in 2014, Trailhead is a free online learning platform with courses focused on Salesforce technologies.[58][59][15]
+
+Salesforce+
+In August 2021, during the COVID-19 pandemic, Salesforce launched a streaming service titled Salesforce+. The service features original content produced by the company involving its clients ranging from "days in the life" of smaller business owners to interviews with large companies' CEOs. Since 2022, Salesforce has also streamed its annual Dreamforce conference on Salesforce+.[60][61]
+
+Discontinued
+Desk.com logo
+Desk.com Logo
+Desk.com
+Desk.com is a SaaS help desk and customer support product that was acquired by Salesforce for $50 million in 2011.[62] The product focused on connecting small businesses to their customers.[62][63]
+
+In March 2018, Salesforce announced that Desk.com would be consolidated with other services into Service Cloud Essentials.[64]
+
+Do.com
+Do.com was a cloud-based task management system for small groups and businesses, introduced in 2011, and discontinued in 2014.[65][66][67]
+
+Operations
+
+A discussion panel at Salesforce's Customer Company Tour event that focused on customer relationship management
+Salesforce is headquartered in San Francisco in the Salesforce Tower.[68] Salesforce has 110 offices, including ones in Hong Kong, Israel, London, Paris, Sydney, and Tokyo.[69][70]
+
+
+Salesforce Tower in New York City.
+Standard & Poor's added Salesforce to the S&P 500 Index in September 2008.[71] In August 2020, S&P Dow Jones Indices announced that Salesforce would replace Exxon Mobil in the Dow Jones Industrial Average.[72]
+
+Culture
+According to Marc Benioff, Salesforce corporate culture is based on the concept of Ohana.[73]
+
+In 2021, Cynthia Perry, a design research senior manager, resigned over discrimination in the workplace and posted her resignation letter on LinkedIn.[74][75]
+
+On September 10, 2021, Benioff tweeted that the company is prepared to help any employee who wishes to move out of the state of Texas, following the abortion in Texas legislation announced on September 1, 2021.[76]
+
+Finances
+For the fiscal year 2022, Salesforce reported revenue of US$26.49 billion, an increase of 25% year-over-year and 24% in constant currency.[77] Salesforce ranked 126 on the 2022 Fortune 500 list of the largest United States companies by revenue.[78]
+
+IT infrastructure
+Salesforce migrated to Dell servers with Advanced Micro Devices processors running Linux from Sun Fire E25K servers with SPARC processors running Solaris in 2008.[80]
+
+In 2012, Salesforce announced plans to build a data center in the UK to handle European citizens' personal data.[81] The center opened in 2014.[82]
+
+In 2013, Salesforce and Oracle announced a nine-year partnership focusing on applications, platforms, and infrastructure.[83]
+
+In 2016, Salesforce announced that it will use Amazon Web Services hosting for countries with restrictive data residency requirements and where no Salesforce data centers are operating.[84]
+
+Acquisitions
+Salesforce has acquired many companies throughout its history.
+
+2006–2015
+In 2006, Salesforce acquired Sendia, a mobile web service firm, for $15 million[85] and Kieden, an online advertising company.[86] In 2007, Koral, a content management service, was acquired.[87] In 2008, Salesforce acquired Instranet for $31.5 million.[88] In 2010, Salesforce acquired multiple companies, including Jigsaw, a cloud-based data service provider, for $142 million,[89] Heroku, a Ruby application platform-as-a-service, for $212 million,[90] and Activa Live Chat, a live chat software provider.[91] In 2011, Salesforce acquired Dimdim, a web conferencing platform, for $31 million,[92] Radian6, a social media tracking company, for $340 million,[93] and Rypple, a performance management software company.[94] Rypple became known as Work.com in 2012.[95] In 2012, Salesforce acquired Buddy Media, a social media marketer, for $689 million,[96] and GoInstant, a browser collaboration startup, for $70 million.[97]
+
+In 2013, Salesforce acquired ExactTarget, an email marketer, for $2.5 billion.[98] In 2014, Salesforce acquired RelateIQ, a data company, for $390 million.[99] In 2015, Salesforce acquired multiple companies for undisclosed sums, including Toopher, a mobile authentication company,[100] Tempo, an AI calendar app,[101] and MinHash, an AI platform.[102] The company also acquired SteelBrick, a software company, for $360 million.[103]
+
+2016–present
+In 2016, Salesforce spent over $5 billion in acquisitions.[104] Companies acquired included Demandware, a cloud-based provider of e-commerce services, for $2.8 billion[105] and Quip, a word processing app, for $750 million.[106] In 2017, the company acquired Sequence, a user experience design agency, for an undisclosed amount.[107] In 2018, Salesforce acquired several companies, including MuleSoft, a cloud service company, for $6.5 billion,[108][109] as well as Rebel, an email services provider,[110] and Datorama, an AI marketing platform, for undisclosed amounts.[111]
+
+Between 2019 and 2021, Salesforce made two of its largest acquisitions, with Salesforce completing its acquisition Tableau, a data visualization and analytics software company, for $15.7 billion[112] in 2019, and Slack Technologies, the developers of its namesake office messaging platform, for $27.7 billion in 2021.[113] Salesforce also made smaller acquisitions throughout 2019, 2020, and 2021, which included ClickSoftware for $1.35 billion,[114] consulting firm Acumen Solutions for $570 million,[115] CRM firm Vlocity for $1.33 billion,[20] privacy compliance startup Phennecs for $16.5 million,[116] and robotic process automation firm Servicetrace for an undisclosed amount.[117]
+
+Salesforce's most recent acquisition was Slack-bot maker Troops.ai, announced in May 2022, and expected to close in 2023.[118]
+
+Criticisms
+Subject to a phishing attack
+In November 2007, a phishing attack compromised contact information on a number of Salesforce customers. Some customers then received phishing emails that appeared to be invoices from Salesforce.[119][120] Salesforce stated that "a phisher tricked someone into disclosing a password, but this intrusion did not stem from a security flaw in [the salesforce.com] application or database."[119]
+
+‘Meatpistol’ presenters let go at Def Con
+In 2017, at DEF CON, two security engineers were let go after giving a presentation on an internal project called MEATPISTOL.[121] The presenters were sent a message 30 minutes prior to the presentation telling them not to go on stage, but the message wasn't seen until after they finished.[121][122] The MEATPISTOL tool was anticipated to be released as open-source at the time of the presentation, but Salesforce didn't release the code to developers or the public during the conference.[121] The terminated employees called on the company to open-source the software after being let go.[123]
+
+RAICES donation refusal
+The not-for-profit organization Refugee and Immigrant Center for Education and Legal Services (RAICES) rejected a US$250,000 donation from Salesforce because the company has contracts with U.S. Customs and Border Protection.[124]
+
+2018 taxes
+In December 2019, the Institute on Taxation and Economic Policy found that Salesforce was one of 91 companies who "paid an effective federal tax rate of 0% or less" in 2018, as a result of the Tax Cuts and Jobs Act of 2017. Their findings were published in a report based on the 379 Fortune 500 companies that declared a profit in 2018.[125]
+
+Lawsuit
+In March 2019, Salesforce faced a lawsuit by 50 anonymous women claiming to be victims and survivors of sex trafficking, abuse, and rape. The suit alleges that the company profited from and helped build technology that facilitated sex trafficking on Backpage.com, a now defunct website.[126] In March 2021, a judge granted partial dismissal of the case, dismissing charges of negligence and conspiracy, but allowed the case to proceed regarding charges of sex trafficking.[127]
+
+Disability discrimination lawsuit in Japan
+
+This section needs to be updated. Please help update this article to reflect recent events or newly available information. (March 2023)
+In July 2021, Salesforce Japan faced a discrimination lawsuit from a former employee, according to Japanese legal media,[128] at a time when the firm has been publicly challenged about its commitment to equality[citation needed]. The firm declined to comment on the suit to the media. The ex-employee, who has Autism Spectrum Disorder and ADHD, claimed she was discriminated against because of her disability and terminated in the firm’s Japan web marketing team. The suit alleged that the anonymous woman, as an employee at Salesforce Japan from 2018 to 2020, faced hate speech, microaggressions and rejection of reasonable accommodation from the manager. She alleged that her attempts to resolve the problem were met with pressure from HR and job coach. The lawsuit started on September 15 in Tokyo district court. The 8th trial will open on November 14, 2022.[129][130]
+
+Employee layoffs/Matthew McConaughey’s salary
+In January 2023, Salesforce reported that 8,000 employees had been laid off as a result of over-hiring during the Covid lockdown and a global economic downturn. In March 2023, the Wall Street Journal reported that actor Matthew McConaughey was paid 10 million dollars yearly for his role as a “creative advisor and TV pitchman”. American musician will.i.am was also cited to be on the company’s payroll due to his “strong understanding of technology”.[131][132]
+
+Salesforce Ventures
+In 2009, Salesforce began investing in startups.[133] These investments became Salesforce Ventures, headed by John Somorjai[133][134] In September 2014, SFV set up Salesforce1 Fund, aimed at start-ups creating applications primarily for mobile phones.[135] In December 2018, Salesforce Ventures announced the launch of the Japan Trailblazer Fund, focused on Japanese startups.[136]
+
+In August 2018, Salesforce Ventures reported investments totaling over $1 billion in 275 companies, including CloudCraze (e-commerce),[137] Figure Eight (artificial intelligence),[138] Forter (online fraud prevention),[139] and FinancialForce (automation software).[140] In 2019, SFV's five largest investments—Domo (data-visualization software), SurveyMonkey (online survey software), Twilio (cloud-communication), Dropbox (cloud storage), and DocuSign (secure e-signature company)—accounted for nearly half of its portfolio.[141] In 2021, Salesforce announced that its investments had resulted in $2.17 billion annual gain.[142]
