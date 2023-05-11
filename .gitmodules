@@ -1,0 +1,3 @@
+[submodule "src/auditnlg/factualness/summac_utils/summac"]
+	path = src/auditnlg/factualness/summac_utils/summac
+	url = https://github.com/tingofurro/summac.git

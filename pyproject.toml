@@ -18,29 +18,28 @@ authors = [
   { name="Tian Xie", email="txie@salesforce.com" },
 ]
 dependencies = [
-  "huggingface-hub==0.14.1",
-  "transformers==4.28.1",
-  "openai==0.27.6",
-  "google-api-python-client==1.12.8",
-  "torch==2.0.0",
+  "huggingface-hub>=0.14.1",
+  "transformers",
+  "openai",
+  "google-api-python-client>=1.12.8",
+  "torch",
   "detoxify",
-  "sentencepiece==0.1.99",
-  "langchain==0.0.158", 
-  "nltk==3.8.1", 
-  "parlai==1.7.1", 
+  "sentencepiece",
+  "langchain", 
+  "nltk", 
+  "parlai", 
   "rank_bm25", 
-  "gdown==4.7.1", 
-  "summac", 
+  "gdown",  
   "edlib",
-  "spacy==3.5.2",
-  "accelerate==0.19.0"
+  "spacy",
+  "accelerate"
 ]
 description = "Auditing Generative AI Lanugage Modeling for Trustworthiness"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: BSD 3-Clause",
+    "License :: OSI Approved :: BSD License",
     "Operating System :: OS Independent",
 ]
 

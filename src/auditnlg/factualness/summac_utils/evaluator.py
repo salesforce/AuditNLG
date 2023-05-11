@@ -5,12 +5,15 @@
  * For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
 '''
 
-from summac.model_summac import SummaCConv
+from .summac.summac.model_summac import SummaCConv
 from ..utils import retrieve_global_knowledge, get_instruction
 
 class SummacEvaluator:
+
     def __init__(self, device='cuda:0'):
         """ Set up evaluator for factual consistency detection """
+        import nltk
+        nltk.download('punkt')
         self.model_conv = SummaCConv(models=["vitc"], bins='percentile', granularity="sentence", \
             nli_labels="e", device=device, start_file="default", agg="mean")
 
