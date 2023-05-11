@@ -1,4 +1,4 @@
-# AuditNLG: Auditing Generative AI Lanugage Modeling for Trustworthiness
+# AuditNLG: Auditing Generative AI Language Modeling for Trustworthiness
 
 ![figure](figures/title.png)
 
