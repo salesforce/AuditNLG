@@ -13,3 +13,5 @@ edlib
 huggingface-hub>=0.14.0
 spacy
 accelerate
+gdown
+wget
