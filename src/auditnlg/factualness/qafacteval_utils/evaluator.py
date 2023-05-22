@@ -6,21 +6,38 @@
 '''
 
 import os
+import shutil
+import gdown
+import wget
+
 from .overall_model import QAFactEval
 from ..utils import retrieve_global_knowledge, get_instruction
 
 class QAFactEvalEvaluator:
     def __init__(self, device=0):
         """ Set up evaluator for factual consistency detection """
-        command_qa = """mkdir -p models ; mkdir models/answering ; cd models/answering ; 
-                  gdown https://drive.google.com/uc?id=1q2Z3FPP9AYNz0RJKHMlaweNhmLQoyPA8; 
-                  unzip model.zip; rm model.zip ; cd ../.. ;"""
-        command_lerc = """mkdir -p models ; wget https://storage.googleapis.com/sfr-qafacteval-research/quip-512-mocha.tar.gz ; 
-                  tar -xzvf quip-512-mocha.tar.gz ; mv quip-512-mocha models/ ; rm quip-512-mocha.tar.gz"""
-        if not os.path.exists("models/answering") or not os.listdir("models/answering"):
-            os.system(command_qa)
+        
+        os.makedirs("models/answering", exist_ok=True)
+        
+        if not os.listdir("models/answering"):
+            model_url = "https://drive.google.com/uc?id=1q2Z3FPP9AYNz0RJKHMlaweNhmLQoyPA8"
+            output_path = "models/answering/model.zip"
+            gdown.download(model_url, output_path, quiet=False)
+            shutil.unpack_archive(output_path, "models/answering")
+            os.remove(output_path)
+
         if not os.path.exists("models/quip-512-mocha") or not os.listdir("models/quip-512-mocha"):
-            os.system(command_lerc)
+            model_url = "https://storage.googleapis.com/sfr-qafacteval-research/quip-512-mocha.tar.gz"
+            output_path = "models/quip-512-mocha.tar.gz"
+
+            try:
+                _ = wget.download(model_url, output_path)
+            except:
+                raise Exception("Error while downloading 'quip-512-mocha'")
+
+            shutil.unpack_archive(output_path, "models/")
+            os.remove(output_path)
+
     
         self.qafacteval = QAFactEval(cuda_device=device, use_lerc_quip=True, \
                                      verbose=False, generation_batch_size=32, \
@@ -44,5 +61,3 @@ class QAFactEvalEvaluator:
             answer_list = [y for y in x[1][0] if y["prediction"]["f1"] <= 0.60]
             meta.append(answer_list)
         return scores, meta
-    
-

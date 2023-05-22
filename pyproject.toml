@@ -32,7 +32,9 @@ dependencies = [
   "gdown",  
   "edlib",
   "spacy",
-  "accelerate"
+  "accelerate",
+  "gdown",
+  "wget"
 ]
 description = "Auditing Generative AI Lanugage Modeling for Trustworthiness"
 readme = "README.md"
