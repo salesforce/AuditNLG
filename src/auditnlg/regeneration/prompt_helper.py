@@ -119,7 +119,7 @@ def prompt_engineer(
                     new_outputs.append(new_output)
 
         # Method 2. Critique-revise pipeline with few-shot examples
-        if "#critique_revision_with_few_shot" in prompthelper_method.split("#"):
+        if "critique_revision_with_few_shot" in prompthelper_method.split("#"):
             updated_output = run_few_shot_pipeline(original_input, original_output, model)
             if updated_output:
                 copy_sample = sample.copy()
@@ -130,7 +130,7 @@ def prompt_engineer(
                     new_outputs.append(new_output)
 
         # Method 3. Factuality pipeline
-        if "#factuality_revision" in prompthelper_method.split("#"):
+        if "factuality_revision" in prompthelper_method.split("#"):
             factuality_score = results[i]["factualness_score"]
             knowledge = sample['knowledge']
             updated_output = improve_factuality(original_input, original_output, knowledge, factuality_score, model)
@@ -142,7 +142,7 @@ def prompt_engineer(
                     new_outputs.append(new_output)
 
         # Method 4. Self-refine pipeline
-        if "#self_refine_loop" in prompthelper_method.split("#"):
+        if "self_refine_loop" in prompthelper_method.split("#"):
             updated_output = self_refine(sample, original_input, original_output, model, global_knowledge, run_factual, run_safety, run_constraint, factual_method, safety_method, constraint_method, batch_size, use_cuda, gpu_device, max_attempts = 2)
             if updated_output:
                 copy_sample = sample.copy()
@@ -152,7 +152,7 @@ def prompt_engineer(
                     new_outputs.append(new_output)
 
         # Method 5. Instruction-expansion through fine-grained guidelines
-        if "#guideline_revision" in prompthelper_method.split("#"):
+        if "guideline_revision" in prompthelper_method.split("#"):
             knowledge = sample['knowledge']
             updated_output = instruction_with_guidelines_factuality(original_input, original_output, knowledge, global_knowledge, model)
             if updated_output:
